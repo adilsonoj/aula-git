@@ -1,7 +1,5 @@
 # Git e GitHub - Guia Básico
 
-Este documento serve como uma introdução rápida aos conceitos fundamentais de Git e GitHub, incluindo sua história e comandos essenciais.
-
 ## 🧐 O que é?
 
 ### Git
